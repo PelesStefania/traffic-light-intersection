@@ -6,3 +6,5 @@ A few friends from another college asked me to build this Arduino traffic light 
 In this project, I built a simple traffic light intersection. It’s certainly not a perfect simulation, but it helped me understand how embedded components work and how to manage timing and outputs with Arduino.
 
 Originally, the buzzer was meant to reproduce the real sound of a pedestrian crossing. We eventually settled for a basic tone that changes frequency when the pedestrian light is green — mostly because my friends got a little impatient and said, “Just leave it like that, it’s fine!”
+
+[Link to the video](https://youtu.be/BwZMWcFQTfc)
